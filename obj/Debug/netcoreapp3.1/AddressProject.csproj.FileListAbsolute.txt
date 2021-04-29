@@ -1,0 +1,13 @@
+D:\Лабы\AddressProject\bin\Debug\netcoreapp3.1\AddressProject.exe
+D:\Лабы\AddressProject\bin\Debug\netcoreapp3.1\AddressProject.deps.json
+D:\Лабы\AddressProject\bin\Debug\netcoreapp3.1\AddressProject.runtimeconfig.json
+D:\Лабы\AddressProject\bin\Debug\netcoreapp3.1\AddressProject.runtimeconfig.dev.json
+D:\Лабы\AddressProject\bin\Debug\netcoreapp3.1\AddressProject.dll
+D:\Лабы\AddressProject\bin\Debug\netcoreapp3.1\AddressProject.pdb
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.csprojAssemblyReference.cache
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.AssemblyInfoInputs.cache
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.AssemblyInfo.cs
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.csproj.CoreCompileInputs.cache
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.dll
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.pdb
+D:\Лабы\AddressProject\obj\Debug\netcoreapp3.1\AddressProject.genruntimeconfig.cache
